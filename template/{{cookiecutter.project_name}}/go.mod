@@ -1,4 +1,4 @@
-module github.com/glebnaz/go-platform-hello-world
+module {{ cookiecutter.module_name }}
 
 go 1.15
 
